@@ -1,1 +1,1 @@
-# Data-Science-I-Final-Project
+The objective of this study is to do a clustering on the public school safety in the New York City in order to help the police department to efficiently allocate the resources to against crimes and violence around schools. The introducing analysis was done based on the data from the Education section on the website of NYC Open Data.
